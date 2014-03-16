@@ -1,0 +1,1 @@
+EmberMusic.ApplicationAdapter = DS.FixtureAdapter;
